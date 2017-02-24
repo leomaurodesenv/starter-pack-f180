@@ -26,11 +26,14 @@ sudo -i # (ou, sudo su)
 # 2. Acesse a pasta raiz dos arquivos
 # Exemplo: cd \user\leomaurodesenv\f180\
 
-# 3. Instale o QtCreator (opcional)
-sh \install-basic\install-qt-linux.sh
+# 3. Acesse a pasta \install-basic\
+cd \install-basic\
 
-# 4. Instale o starter-pack
-sh \install-basic\install-f180.sh
+# 4. Instale o QtCreator (opcional)
+sh install-qt-linux.sh
+
+# 5. Instale o starter-pack
+sh install-f180.sh
 ```   
 
 * Uma pasta `\main\` será criada, contendo o _grSim_ e o _ssl-vision-master_;
