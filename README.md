@@ -20,19 +20,12 @@ Shell de instalação se encontra na pasta `\install-basic\`
 _Obs: Apenas foi testado no Ubuntu 10.04 e 12.04 (recomendado)_   
    
 ```
-# 1. Entre em modo super usuário 
-sudo -i # (ou, sudo su)
-
-# 2. Acesse a pasta raiz dos arquivos
-# Exemplo: cd \user\leomaurodesenv\f180\
-
-# 3. Acesse a pasta \install-basic\
+# 1. Acesse a pasta raiz dos arquivos
+# 2. Acesse a pasta \install-basic\
 cd \install-basic\
-
-# 4. Instale o QtCreator (opcional)
+# 3. Instale o QtCreator (opcional)
 sh install-qt-linux.sh
-
-# 5. Instale o starter-pack
+# 4. Instale o starter-pack
 sh install-f180.sh
 ```   
 
