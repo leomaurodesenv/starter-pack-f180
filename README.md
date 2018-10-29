@@ -1,4 +1,4 @@
-#Starter Pack F180 (Futebol CPPP/CBR)   
+# Starter Pack F180 (Futebol CPPP/CBR)   
 
 Este repositório serve como base de programação para entusiastas e amantes de código que querem competir na [RoboCup Small Size (F180)](http://www.cbrobotica.org/?page_id=104&lang=pt).   
    
@@ -9,12 +9,12 @@ _No RoboCup Small Size Soccer, também conhecida como RoboCup F-180, duas equipe
 ___
    
 
-###Conteúdo   
+### Conteúdo   
    
 * Instalador base do _grSim_ e _SSL-Vision_;   
 * Exemplo de integração, veja _\example\how-to.md_
    
-###Instalação
+### Instalação
 
 Shell de instalação se encontra na pasta `\install-basic\`   
 _Obs: Apenas foi testado no Ubuntu 10.04 e 12.04 (recomendado)_   
@@ -40,7 +40,7 @@ sh install-f180.sh
 * Construa o programa e execute o `\main\grSim\bin\grSim` e o `\main\ssl-vision-master\bin\client`;
 * Para testar modifique a porta para 10006 na aplicação do _grSim_, feche e reabra.
    
-###Como construir o programa?   
+### Como construir o programa?   
    
 ```
 # Acesse a raiz \main\grSim\ execute os comandos abaixo
