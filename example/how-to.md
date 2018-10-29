@@ -1,19 +1,19 @@
-##Exemplo   
+## Exemplo   
 
-Exemplo de como executar um código ssl-vision para "seguir a bola".   
+Exemplo de como executar um cÃ³digo ssl-vision para "seguir a bola".   
    
 ---
    
-Dentro do arquivo `\example\main.cpp` veja as novas funções para maior entendimento sobre o exemplo:   
+Dentro do arquivo `\example\main.cpp` veja as novas funÃ§Ãµes para maior entendimento sobre o exemplo:   
 * `void command(...)`: Movimenta as rodas do robo[_yellow|blue_][_id_]   
 * `void MoverPara(...)`: Mando o robo[][] seguir para um ponto _(x, y)_   
    
 ---
    
-###Instalação do Exemplo   
+### InstalaÃ§Ã£o do Exemplo   
    
 ```
-# 1. Entre em modo super usuário 
+# 1. Entre em modo super usuÃ¡rio 
 sudo -i # (ou, sudo su)
 
 # 2. Acesse o ssl-vision
